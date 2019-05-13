@@ -1,22 +1,28 @@
 # GermanNumbers
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-GermanNumbers.svg)](https://github.com/S-ayanide/Flutter-GermanNumbers/issues)
-[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-GermanNumbers.svg?style=social)](https://github.com/S-ayanide/Flutter-GermanNumbers/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-GermanNumbers.svg?style=social)](https://github.com/S-ayanide/Flutter-GermanNumbers/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-GermanNumbers.svg?style=plastic)](https://github.com/S-ayanide/Flutter-GermanNumbers/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-TicTacToe.svg?style=plastic)](https://github.com/S-ayanide/Flutter-TicTacToe/issues)
+[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-TicTacToe.svg?style=social)](https://github.com/S-ayanide/Flutter-TicTacToe/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-TicTacToe.svg?style=social)](https://github.com/S-ayanide/Flutter-TicTacToe/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-TicTacToe.svg?style=popout-square)](https://github.com/S-ayanide/Flutter-TicTacToe/blob/master/LICENSE)
 
-A basic Flutter project which generates English numbers from 1 to 10 and translates them to German simultaneously
+A Tic Tac Toe Flutter game which auto resets after you win, it also has a reset everything feature. ⭕️ ✖️
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Short Description
-This Flutter app converts the English number from 1 to 10. After reaching 10 it again comes back to one. It has two buttons, both of which does the same job and any one or both could you used. 📳
+This Flutter game is a very famous yet easy start for beginners. Its a Tic Tac Toe game which is built using one Stateless and a Stateful widget, You can change the assets if you wish too, everything is properly documented including the game logic and the state changes, It has a delay feature which auto resets the game after a winner is declared, you can also manually reset the game if you want to.
 
 ## Screenshots
 <img src="images/Capture1.PNG"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/KdBs9k4NdQyRBDEu4e/giphy.gif"
+     width="200"/> <img src="images/Capture2.PNG"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/>
+     width="200"/> <img src="https://media.giphy.com/media/g4M22Wl29fexgv34g7/200w_d.gif"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="186"/> <img src="https://media.giphy.com/media/pzdFUO8zPdUhVMpWeX/200w_d.gif"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="189"/> 
      
 ## NOTE:
 This project is subject to change by the developer and is still in development
@@ -33,10 +39,10 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 ## Developed & Maintained by
 [Sayan Mondal](https://github.com/S-ayanide) 
 [📷 Insta](https://www.instagram.com/s_ayanide/)
-[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-GermanNumbers.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-GermanNumbers)
+[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-TicTacToe.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-TicTacToe)
 
 ## License 
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-GermanNumbers.svg?style=plastic)](https://github.com/S-ayanide/Flutter-GermanNumbers/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-TicTacToe.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-TicTacToe/blob/master/LICENSE)
 ```Copyright 2019 Sayan Mondal
 
 Licensed under the Apache License, Version 2.0 (the "License");
